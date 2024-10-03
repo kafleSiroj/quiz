@@ -36,7 +36,7 @@ def main():
 
             while answer.isdigit():
                 while answer not in num_opts:
-                    answer = input('Enter Valid answer! (Answer must not be any number or blank space!): ')
+                    answer = input('Enter Valid answer! (Answer must not be any word or blank space!): ')
 
                 clear()
 
@@ -65,7 +65,8 @@ def main():
 
         elif quizagain in ['n', 'no']:
             print('Thankyou for your attempt!')
-            break
+        
+        break
 
 if __name__ == '__main__':
     main()
