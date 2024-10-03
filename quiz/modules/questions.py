@@ -1,0 +1,22 @@
+ques = {
+    1: "1) What is my favourite homemade food?\n  1) Aalo Chapatti \n  2) Suka Roti \n  3) Rice  \n  4) Fapar Roti",
+    2: "2) What is my favourite drink?\n  1) Water \n  2) Coke  \n  3) Fanta  \n  4) Sprite",
+    3: "3) What is my favourite anime?\n  1) Naruto  \n  2) Death Note  \n  3) One Piece  \n  4) Demon Slayer",
+    4: "4) What is my favourite movie?\n  1) Sherlock Homes  \n  2) Interstellar \n  3) Oppenheimer \n  4) Harry Potter",
+    5: "5) Which is my favourite character in the movie Harry Potter?\n  1) Harry Potter \n  2) Ronald Wesley \n  3) James Potter \n  4) Snape",
+    6: "6) Which is my favourite football player?\n  1) Neymar \n  2) Messi \n  3) Yamal \n  4) Ronaldo",
+    7: "7) Who was my first favourite singer?\n  1) Harry Styles \n  2) Taylor Swift \n  3) Aubrey Drake \n  4) Ed Sheeran",
+    8: "8) Which actor do I like?\n  1) Jenna Ortega \n  2) Emma Watson \n  3) Daniel Radcliffe \n  4) Tom Holland",
+    9: "9) What is my favourite book till now?\n  1) Harry Potter \n  2) The Kite Runner \n  3) Sofies World \n  4) Around the World in 80 Days",
+    10:  "10) Which is my favourite subject?\n  1) English and O.Maths \n  2) C.Maths and Science \n  3) O.Maths and Science \n  4) English and Science",
+    11: "11) Which is my favourite subject between?\n  1) O.Maths \n  2) C.Maths",
+    12: "12) Which character do I like in the anime called Naruto?\n  1) Itachi Uchiha \n  2) Kakashi Hatake \n  3) Naruto Uzumaki \n  4) Hinata Hyuga",
+    13: "13) Who is my favourite chess player?\n  1) Magnus Carlsen \n  2) Anish Giri \n  3) Ian Nepomniachtchi \n  4) Hikaru Nakamura",
+    14: "14) What is my favourite color?\n  1) Blue \n  2) Red \n  3) Green \n  4) Yellow",
+    15: "15) What do I do in my free time?\n  1) Read novels or play guitar \n  2) Play guitar \n  3) Play chess \n  4) Nothing",
+    16: "16) Which is my favourite junk food?\n  1) Pizza \n  2) Burger \n  3) Momo \n  4) French Fries",
+    17: "17) Which sports am I getting along?\n  1) Volleyball \n  2) Football \n  3) Badminton \n  4) Kabaddi",
+    18: "18) My favourite online game?\n  1) Freefire \n  2) Minecraft \n  3) Chess \n  4) GTA-5",
+    19: "19) Which country do I wanna visit?\n  1) Japan \n  2) USA \n  3) France \n  4) Belgium",
+    20: "20) For how many months did I have to stop playing football because of my left knee bone swelling?\n  1) 6 months \n  2) 5 months \n  3) 1 month \n  4) 3 months"
+}
